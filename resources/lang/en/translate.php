@@ -61,6 +61,5 @@ return [
     'Envoyer le Message' => 'Send the message',
     '' => '',
     '' => '',
-    
 
 ];
